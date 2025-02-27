@@ -11,8 +11,8 @@ import Home from "./pages/Home";
 import './index.css';
 
 const config = getDefaultConfig({
-  appName: 'University NFT',
-  projectId: 'YOUR_PROJECT_ID', // Get one from https://cloud.walletconnect.com
+  appName: 'Soul-Bond-Token',
+  projectId: 'd0d3c96d2dfa5b1b158683dd2b20206c', // Get one from https://cloud.walletconnect.com
   chains: [mantaSepoliaTestnet],
   ssr: true,
   },
