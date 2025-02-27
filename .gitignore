@@ -23,5 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-#contractConfig.json
 contractConfig.json
